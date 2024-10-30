@@ -1,5 +1,5 @@
 ---
-title: "Problem Set 2 Causal Inference"
+title: "Causal Inference"
 output:
   pdf_document: 
     latex_engine: lualatex
